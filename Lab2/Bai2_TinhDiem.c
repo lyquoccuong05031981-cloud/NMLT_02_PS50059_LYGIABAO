@@ -5,7 +5,7 @@ int main()
     float toan, ly, hoa;
     float diemTB;
 
-    printf("===== TINH DIEM TRUNG BINH =====\n");
+    printf("===== TINH DIEM TRUNG BINH =====\n");`
 
     printf("Nhap diem Toan: ");
     scanf("%f", &toan);
